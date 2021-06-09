@@ -1,0 +1,12 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/Protonus-xen/Red/master/OcuA.version",
+    #"masterVersionFile":"https://bitbucket.org/Protonus/red-and-blue/downloads/OcuA.version",
+    "modName":"Oculian Armada",
+    "modThreadId":9035,
+    "modVersion":
+    {
+        "major":0,
+        "minor":9,
+        "patch":1a
+    },
+}
