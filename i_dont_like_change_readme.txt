@@ -1,3 +1,7 @@
+**** Version 0.10.1-RC2 ****
+	Ships:
+		Undone the mishap with descriptions.
+
 **** Version 0.10.1-RC1 ****
 	Updated for 0.98a-RC5.
 	Faction:
