@@ -1,3 +1,126 @@
+**** Version 0.10.2 ****
+	Campaign:
+		MagicLib Bounty Board:
+			Sheielle:
+				Redone level requirements to make her normally available.
+				Credit Reward increased from 500000 to 700000.
+	Ships:
+		Added a new hull style used exclusively for Mikanate hulls.
+		Kitted Gretly Buster:
+			Fixed post description bullets.
+		Oculian Hull:
+			Added a codex entry replacing the ship-dependent descriptors required for display.
+		Photon Shield:
+			Added a codex entry replacing the ship-dependent descriptors required for display.
+			Shield Efficiency is now directly tied to the total modified value gained from Shield efficiency hullmods.
+			Mikanate ships have 10% initial damage resistance.
+		Mikanate Crystalline-Quantix core:
+			Added missing Shield bonuses.
+		Chimis (Mi):
+			Mikanate Mollusc shipsystem changed to Mikanate Mollusc (2x).
+		Lemphis:
+			Fleet point occupancy increased from 11 to 13.
+			Mikanate Mollusc (2x) shipsystem changed to Ionic Cruise Jets.
+			Flux Capacity increased from 6000 to 7000.
+			Flux Dissipation increased from 450 to 500.
+			Shield Efficiency increased from 0.85 to 0.8.
+		Nadia (Mi):
+			Shield Module:
+				Shield radius increased from 280 to 320.
+		Galalixia:
+			Resprited and Overhauled.
+			Targeting Feed shipsystem replaced with Ballroom Protocol.
+			Tag "rare_bp" removed.
+			Modules are adjusted with smoother shapes and more weapon slots.
+			Added 1 Altera Missile Platform built-in.
+			Added 16 Glint built-ins.
+			Modular slot changes:
+				2 Large Energy, 8 Medium Energy, 6 Small Energy to
+				8 Large Energy, 4 Medium Energy.
+			Price increased from 1000000 to 2000000.
+			Hangar slots increased from 4 to 7.
+			Hull increased from 13500 to 20000.
+			Armor increased from 1000 to 1400.
+			Flux Capacity increased from 8000 to 18000.
+			Flux Dissipation increased from 600 to 1200.
+			Ordinance points increased from 230 to 300.
+			Top Speed increased from 25 to 35.
+			Shield Efficiency increased from 0.9 to 0.8.
+			Crew Capacity increased from 300 to 600.
+			Cargo Capacity increased from 2000 to 2400.
+			Fuel Capacity increased from 1400 to 1800.
+			Peak Readiness time increased from 900 to 1200.
+			Combat Readiness recovery per day reduced from 4% to 2.5%.
+			Combat Readiness deployment cost reduced from 12% to 10%.
+			Base Supply Maintenance/Repair and Deployment cost increased from 108 to 160.
+			Weapon Platform module:
+				Hull increased from 8500 to 14000.
+				Flux Capacity increased from 8000 to 12000.
+				Flux Dissipation increased from 500 to 800.
+				Ordinance points increased from 105 to 160.
+				Front Shield added with 90 angle, 0 upkeep and 0.9 efficiency.
+			Hangar Platform module:
+				Armor reduced from 900 to 500.
+				Flux Capacity increased from 7000 to 8000.
+				Flux Dissipation increased from 450 to 600.
+				Ordinance points increased from 65 to 130.
+				Hangar slots increased from 2 to 5.
+				Shield Upkeep reduced from 0.2 to 0.
+			Command Complex module:
+				Renamed to Engine Complex.
+				Hull increased from 10000 to 12000.
+				Armor reduced from 900 to 600.
+				Flux Capacity increased from 7000 to 10000.
+				Flux Dissipation increased from 450 to 700.
+				Ordinance points increased from 65 to 130.
+				Hangar slots increased from 2 to 5.
+				Front Shield added with 90 angle, 0 upkeep and 0.9 efficiency.
+		Elizabeth (Magiclib Bounty):
+			Resprited and Overhauled to match the Pandora.
+			Hangar Module added.
+			Modular slot changes:
+				4 Large Energy, 4 Medium Energy, 3 Medium Synergy to
+				1 Large Synergy, 4 Large Energy, 4 Medium Synergy, 4 Medium Energy, 6 Small Synergy.
+			Engine Module:
+				Breeze Drone shipsystem changed to Wing Overclock.
+			Side Module:
+				Added 1 Small Energy turret.
+				Added 6 Glint built-ins.
+				Hangar slots increased from 2 to 4.
+			Base Price increased from 750000 to 1000000.
+			Fleet point occupancy increased from 52 to 60.
+			Hangar slots increased from 5 to 6.
+			Hull increased from 17500 to 22000.
+			Armor reduced from 1250 to 1200.
+			Flux Capacity increased from 15000 to 16000.
+			Ordinance points increased from 250 to 300.
+			Top Speed increased from 35 to 40.
+			Base Supply Maintenance/Repair and Deployment cost increased from 78 to 90.
+	Weapons:
+		Pixel+ Pod:
+			Ammo per second added from 0 to 0.01667.
+			Ammo reload sized added from 0 to 1.
+		Suzuya:
+			Ammo per second added from 0 to 0.025.
+			Ammo reload sized added from 0 to 2.
+			Description changed to reflect this.
+		Pixel++ Launcher:
+			Ammo per second added from 0 to 0.03334.
+			Ammo reload sized added from 0 to 2.
+		Voxel:
+			Ammo per second added from 0 to 0.01667.
+			Ammo reload sized added from 0 to 1.
+		Macroxel+ Launcher:
+			Ammo per second added from 0 to 0.0125.
+			Ammo reload sized added from 0 to 1.
+		Shimakaze:
+			Ammo per second increased from 1.2 to 1.8.
+		Sangulum Beam Array:
+			Tag "ocua_basic_bp" removed.
+			Damage per second increased from 260 to 600.
+			EMP damage per second added by 120.
+			Flux per second reduced from 300 to 240.
+
 **** Version 0.10.1-RC2 ****
 	Ships:
 		Undone the mishap with descriptions.
