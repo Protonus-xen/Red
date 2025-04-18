@@ -1,3 +1,10 @@
+**** Version 0.10.2-RC1 ****
+	Ships:
+		Chimly (and Mi):
+			Removed the legacy UNBOARDABLE tag.
+		Elizabeth:
+			Remove the ocua tag association.
+
 **** Version 0.10.2 ****
 	Campaign:
 		MagicLib Bounty Board:
@@ -20,7 +27,7 @@
 			Mikanate Mollusc shipsystem changed to Mikanate Mollusc (2x).
 		Lemphis:
 			Fleet point occupancy increased from 11 to 13.
-			Mikanate Mollusc (2x) shipsystem changed to Ionic Cruise Jets.
+			Mikanate Mollusc (2x) shipsystem changed to Ionic Cruise Jets. (Scrapped)
 			Flux Capacity increased from 6000 to 7000.
 			Flux Dissipation increased from 450 to 500.
 			Shield Efficiency increased from 0.85 to 0.8.
