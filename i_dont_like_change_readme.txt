@@ -1,3 +1,12 @@
+**** Version 0.10.2-RC2 ****
+	Campaign:
+		Added missing relationship settings for [Redacted] vanilla factions.
+		Added relationship chain for Ynadar and Hylecium mods.
+		Test fix on the Admin crash bug by removing the unmodifier on ship quality.
+	Ships:
+		Lemphis:
+			Ionic Cruise Jets shipsystem reverted to Mikanate Mollusc (2x).
+
 **** Version 0.10.2-RC1 ****
 	Ships:
 		Chimly (and Mi):
@@ -27,7 +36,7 @@
 			Mikanate Mollusc shipsystem changed to Mikanate Mollusc (2x).
 		Lemphis:
 			Fleet point occupancy increased from 11 to 13.
-			Mikanate Mollusc (2x) shipsystem changed to Ionic Cruise Jets. (Scrapped)
+			Mikanate Mollusc (2x) shipsystem changed to Ionic Cruise Jets.
 			Flux Capacity increased from 6000 to 7000.
 			Flux Dissipation increased from 450 to 500.
 			Shield Efficiency increased from 0.85 to 0.8.
