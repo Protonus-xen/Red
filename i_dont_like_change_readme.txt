@@ -1,3 +1,15 @@
+**** Version 0.10.2-RC3 ****
+	Ships:
+		Mikanate Crystalline-Pulse Core:
+			Fixed missing Shield damage reduction and EMP Arc resistance.
+		Mikanate Pulse-Vapor Core:
+			Fixed description for weapon range.
+		Utena:
+			Titanic Phase Columns:
+				Energy damage resistance increased from 10% to 15%.
+				Speed bonus while Phased increased from 60 to 80 units.
+				Acceleration bonus while Phased increased from 60 to 100 units.
+
 **** Version 0.10.2-RC2 ****
 	Campaign:
 		Added missing relationship settings for [Redacted] vanilla factions.
