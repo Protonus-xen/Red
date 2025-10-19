@@ -1,3 +1,16 @@
+**** Version 0.10.2-RC4 ****
+	Ships:
+		Overdriven Clock Systems:
+			Added clarification that it does not improve Ordinance points for wings.
+		Gretly:
+			Kitted Gretly Buster:
+				S-mod Shield damage resistance bonus removed.
+				S-mod Explosion Damage bonus increased from 100% to 150%.
+				S-mod Explosion Range bonus increased from 50% to 75%.
+		Lemphis:
+			Fleet point cost reduced from 13 to 9.
+			Base Supply Maintenance/Repair and Deployment cost reduced from 14 to 10.
+
 **** Version 0.10.2-RC3 ****
 	Ships:
 		Mikanate Crystalline-Pulse Core:
